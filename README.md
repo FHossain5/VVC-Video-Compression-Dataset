@@ -14,7 +14,7 @@ Below is a visual representation of the folder structure for the dataset to help
 -├── 50_videos_different_background/
 -├── loot/
 -├── soldier/
--├── readandblack/
+-├── redandblack/
 -└── longdress/
 ```
 
