@@ -24,9 +24,9 @@ Go to [https://volumetricvideoevaluation.com/](https://volumetricvideoevaluation
 
 ### 4. Watch and Rate 3 Videos
 You will be shown three videos, one after another:
-- **Compressed Video 1:** VVC-compressed volumetric video
+- **Compressed Video 1:** MP4-compressed volumetric video
 - **Compressed Video 2:** MP4-compressed volumetric video
-- **Video 3:** Dynamic background volumetric video (baseline)
+- **Video 3:** Dynamic background volumetric video
 
 Each video plays inline at **720p resolution** with standard play/pause controls.
 
