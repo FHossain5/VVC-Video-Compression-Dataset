@@ -7,7 +7,7 @@ The **Volumetric Video Evaluation** platform was developed to gather **real user
 
 This feedback is critical to improving the compression techniques applied to the **VVC Video Compression Dataset** hosted in this repository.
 
----
+
 
 ## How It Works
 
@@ -40,7 +40,7 @@ Ratings are given on a **1 to 5 scale**, where 5 means excellent quality.
 - After watching and rating all videos, review your responses and click **Submit**.
 - You will see a confirmation message thanking you for your valuable contribution.
 
----
+
 
 ## Why Your Feedback Matters
 Unlike automated quality metrics, **human perception** gives a true reflection of visual experience. Your ratings help:
@@ -50,14 +50,14 @@ Unlike automated quality metrics, **human perception** gives a true reflection o
 
 Every response directly supports our research and helps build better tools for future immersive video experiences.
 
----
+
 
 ## Data Privacy
 - All feedback is stored **securely and anonymously**.
 - No personal information is linked to your ratings.
 - Your contribution is used solely for research and dataset improvement purposes.
 
----
+
 
 **Thank you for helping us advance volumetric video research!**
 
