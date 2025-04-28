@@ -19,7 +19,7 @@ Go to [https://volumetricvideoevaluation.com/](https://volumetricvideoevaluation
 - Returning users: **Log in** to continue the evaluation.
 
 ### 3. Complete a Short Questionnaire
-- Fill a few optional questions about your experience with videos and your background.
+- Fill a few questions about your experience with videos and your background.
 - This information helps us analyze feedback based on user familiarity and viewing conditions.
 
 ### 4. Watch and Rate 3 Videos
