@@ -44,9 +44,9 @@ Ratings are given on a **1 to 5 scale**, where 5 means excellent quality.
 
 ## Why Your Feedback Matters
 Unlike automated quality metrics, **human perception** gives a true reflection of visual experience. Your ratings help:
-- Compare the effectiveness of VVC and MP4 compression
-- Understand how dynamic scenes affect video quality perception
-- Improve the next generation of volumetric video compression methods
+- Measure how viewers perceive the quality of compressed volumetric videos
+- Understand how compression techniques affect visual clarity, depth, and overall experience
+- Improve the design of future compression methods for volumetric and immersive video content
 
 Every response directly supports our research and helps build better tools for future immersive video experiences.
 
