@@ -28,8 +28,6 @@ You will be shown three videos, one after another:
 - **Compressed Video 2:** MP4-compressed volumetric video
 - **Video 3:** Dynamic background volumetric video
 
-Each video plays inline at **720p resolution** with standard play/pause controls.
-
 After watching each video, you will rate it based on:
 - **Visual Clarity**
 - **Depth Perception**
