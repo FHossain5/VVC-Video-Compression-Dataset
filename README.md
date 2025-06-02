@@ -1,4 +1,4 @@
-# VVC-Video-Compression-dataset
+# VVC-Volumetric-video-dataset
 
 ## Introduction
 This dataset contains 350 video sequences created from the 8i Voxelized Full Bodies (8iVFB v2) dataset, utilizing the VVC (H.266) compression standard. The dataset is organized for experiments to compare the visual quality and compression efficiency of volumetric video sequences with modified geometry and texture parameters.
