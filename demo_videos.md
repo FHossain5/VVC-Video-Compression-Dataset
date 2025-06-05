@@ -3,7 +3,7 @@
 Welcome to the **VVC Video Compression Dataset** demo section. Here are some sample videos demonstrating various compression techniques and background settings from the dataset. Click on the videos to get a better understanding of the dataset.
 
 ## 1. Dynamic Background (Texture, Simple Background, No Compression, Camera Movement)
-[![Dynamic Background](https://img.youtube.com/vi/dynamic_longdress/0.jpg)](https://github.com/FHossain5/VVC-Video-Compression-Dataset/blob/main/dynamic_longdress.mp4)
+[![Dynamic Background](dynamic_longdress.mp4)
 
 - **Description**: This video demonstrates a dynamic background where we have a texture background and a simple background with no compression applied. The camera movement adds complexity to the scene.
 
